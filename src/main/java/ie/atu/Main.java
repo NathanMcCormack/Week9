@@ -14,6 +14,5 @@ public class Main {
 
         System.out.println(customer1.toString());
         System.out.println(customer2.toString());
-
     }
 }
